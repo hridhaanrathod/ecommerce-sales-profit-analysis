@@ -1,0 +1,56 @@
+# Python virtual environments & bytecode caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter & IDE configurations
+.ipynb_checkpoints
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System temporary files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Node.js & local logs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Scratch & temporary diagnostic files
+scratch/
+*.tmp
+
+# Unrelated root files (standalone Pomodoro app & personal portfolio repo)
+/portfolio/
+/index.html
+/app.js
+/style.css
