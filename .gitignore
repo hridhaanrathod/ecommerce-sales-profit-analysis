@@ -51,6 +51,6 @@ scratch/
 
 # Unrelated root files (standalone Pomodoro app & personal portfolio repo)
 /portfolio/
-/index.html
 /app.js
 /style.css
+
